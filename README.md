@@ -1,4 +1,4 @@
-## Hi there 👋
+## (https://monkeytype.com/profile/adamr814)
 
 <!--
 **adamr814/adamr814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
