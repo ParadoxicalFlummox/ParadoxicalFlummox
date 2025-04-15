@@ -46,22 +46,26 @@ Email: adamr814@outlook.com
 
 ## MISC
 ### My Homelab Setup
-> PVE Node1 (Custom built PC)
-> - Plex
+> Node1 *Vader* (Custom built PC)
+> - Jellyfin
 > - TrueNAS
-> - Windows 10 VM
 > - Ubuntu Container for Minecraft Server
 ---
-> PVE Node2 (Dell Wyse 5070)
+> Node2 *Leia* (Dell Wyse 5070)
 > - Immich
 > - Firefly III
 ---
-> PVE Node3 (Dell Wyse 5070)
-> - Home Assistant
-> - Linux Mint 22 VM
+> Node3 *Luke* (Dell Wyse 5070)
+> - Ubuntu Server 24.04LTS
+>   - Docker
+>     - Jellyseer
+>     - Prowlarr
+>     - Lidarr
+>     - Sonarr
+>     - Radarr
 ---
 #### Network Stack
-> - Netgear CM1000 Modem
-> - OPNsense on Dell Wyse 5070
-> - Netgear GS605 Switch
-> - Netgear R7000 Router
+> - Netgear CM1000 Modem *Qui-Gon*
+> - OPNsense Firewall Appliance *Obi-WAN*
+> - Netgear GS605 Switch *Maul*
+> - Netgear R7000 Router *
