@@ -33,16 +33,18 @@ My skills will be broken down by type
   - Debian 11
   - Ubuntu 12, 14, 20, 22, 24, Ubuntu Touch
   - Mint 22
-  - Arch
+  - Arch (learning)
+  - Nix (learning)
 ### Skillsets
 - Network Configuration
 - Database Configuration
 - Hypervisor and Virtualization setup
-- Project Planning & Technical Documentation Creation
+- Project Planning & Technical Documentation Writing
 - Source Control using Git & Github
+- Iterative Testing
 
 ## Contact Information
-Email: adamr814@outlook.com
+Email: adamr814@protonmail.com
 
 ## MISC
 ### My Homelab Setup
