@@ -1,7 +1,7 @@
 ## Introductions and About Me
-I am a student at the University of North Dakota & I am positioned to graduate May 2025
-- I am currently working on my senior capstone project, A telemetry driven load balancer for distributed software defined networks or SNeLB for short.
-- I was the VP of Training and became the Co-President of the UND triathlon club.
+I am a graduate from the University of North Dakota, I graduated May of 2025
+- I am currently open to employment. My focus is in distributed networking and software engineering.
+- I currently am currently deploying systems and services on my home lab.
 
 Some of my hobbies include:
 - Photography
@@ -33,6 +33,7 @@ My skills will be broken down by type
   - Debian 11
   - Ubuntu 12, 14, 20, 22, 24, Ubuntu Touch
   - Mint 22
+  - Fedora (learning)
   - Arch (learning)
   - Nix (learning)
 ### Skillsets
@@ -48,26 +49,29 @@ Email: adamr814@protonmail.com
 
 ## MISC
 ### My Homelab Setup
-> Node1 *Vader* (Custom built PC)
-> - Jellyfin
-> - TrueNAS
-> - Ubuntu Container for Minecraft Server
+Node1 *Vader* (Custom built PC)
+- Jellyfin
+- TrueNAS Scale
+- Ubuntu LXC for Minecraft
 ---
-> Node2 *Leia* (Dell Wyse 5070)
-> - Immich
-> - Firefly III
+Node2 *Leia* (Dell Wyse 5070)
+- Experimenting with NixOS
 ---
-> Node3 *Luke* (Dell Wyse 5070)
-> - Ubuntu Server 24.04LTS
->   - Docker
->     - Jellyseer
->     - Prowlarr
->     - Lidarr
->     - Sonarr
->     - Radarr
+Node3 *Luke* (Dell Wyse 5070)
+- Ubuntu Server 24.04LTS
+  - Docker "do"
+    - Radarr
+    - Sonarr
+    - Lidarr
+  - Docker "re"
+    - Actual Finance (money management)
+    - Kavita (books)
+---  
+Node4 *Han-Solo* (Dell Wyse 5070)
+- Experimenting with Fedora Linux
 ---
 #### Network Stack
-> - Netgear CM1000 Modem *Qui-Gon*
-> - OPNsense Firewall Appliance *Obi-WAN*
-> - Netgear GS605 Switch *Maul*
-> - Netgear R7000 Router *
+- Netgear CM1000 Modem *Qui-Gon*
+- OPNsense Firewall Appliance *Obi-WAN*
+- Netgear GS605 Switch *Maul*
+- Netgear AX5400 AP *Yoda*
