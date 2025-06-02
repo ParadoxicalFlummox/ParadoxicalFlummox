@@ -55,7 +55,10 @@ Node1 *Vader* (Custom built PC)
 - Ubuntu LXC for Minecraft
 ---
 Node2 *Leia* (Dell Wyse 5070)
-- Experimenting with NixOS
+- Ubuntu Server 24.04LTS
+  - Docker "Docker-Auth"
+     - Authelia (TOTP/2FA)
+     - Caddy (Reverse Proxy)
 ---
 Node3 *Luke* (Dell Wyse 5070)
 - Ubuntu Server 24.04LTS
