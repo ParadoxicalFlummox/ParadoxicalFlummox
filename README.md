@@ -25,6 +25,7 @@ My skills will be broken down by type
 - Java
 - .NET
 - HTML, CSS
+- BASH
 ### Operating Systems
 - Windows 7, 8, 10, 11
 - MacOS
@@ -50,25 +51,28 @@ Email: adamr814@protonmail.com
 ## MISC
 ### My Homelab Setup
 Node1 *Vader* (Custom built PC)
-- Jellyfin
-- TrueNAS Scale
-- Ubuntu LXC for Minecraft
+- Proxmox 8.3
+  - Jellyfin
+  - TrueNAS Scale
+  - Ubuntu LXC for Minecraft
 ---
 Node2 *Leia* (Dell Wyse 5070)
-- Ubuntu Server 24.04LTS
+- Proxmox 8.4
   - Docker "Docker-Auth"
      - Authelia (TOTP/2FA)
      - Caddy (Reverse Proxy)
 ---
 Node3 *Luke* (Dell Wyse 5070)
-- Ubuntu Server 24.04LTS
-  - Docker "do"
-    - Radarr
-    - Sonarr
-    - Lidarr
-  - Docker "re"
-    - Actual Finance (money management)
-    - Kavita (books)
+- Proxmox 8.4
+  - Ubuntu Server 24.04 LTS
+    - Docker "do"
+      - Radarr
+      - Sonarr
+      - Lidarr
+  - Ubuntu Server 24.04 LTS
+    - Docker "re"
+      - Actual Finance (money management)
+      - Kavita (books)
 ---  
 Node4 *Han-Solo* (Dell Wyse 5070)
 - Experimenting with Fedora Linux
