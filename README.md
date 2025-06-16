@@ -8,7 +8,7 @@ Some of my hobbies include:
 - Triathlons
 
 ## Major Projects
-- [CARAT (needs link)](https://github.com/ParadoxicalFlummox)
+- [CARET (needs link)](https://github.com/ParadoxicalFlummox)
 - [SNeLB (Private UND project atm)](https://github.com/Intelligent-Network-Solutions/SNeLB)
 - [PrintConform](https://github.com/ParadoxicalFlummox/College_Course_Code/tree/main/CSCI%20463/Print-Conform-main)
 - [All prior course work](https://github.com/ParadoxicalFlummox/College_Course_Code)
