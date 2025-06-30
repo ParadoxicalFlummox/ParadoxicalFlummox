@@ -8,7 +8,7 @@ Some of my hobbies include:
 - Triathlons
 
 ## Major Projects
-- [CARET (needs link)](https://github.com/ParadoxicalFlummox)
+- [TAPRE](https://github.com/ParadoxicalFlummox/TAPRE)
 - [SNeLB (Private UND project atm)](https://github.com/Intelligent-Network-Solutions/SNeLB)
 - [PrintConform](https://github.com/ParadoxicalFlummox/College_Course_Code/tree/main/CSCI%20463/Print-Conform-main)
 - [All prior course work](https://github.com/ParadoxicalFlummox/College_Course_Code)
@@ -21,16 +21,23 @@ Programming Languages
 
 Operating Systems
 > Windows [7, 8, 10, 11]
+>
 > MacOS
-> Linux [Proxmox, Debian 11, Ubuntu 12, 14, 20, 22, 24, Ubuntu Touch, Mint 22, Fedora (learning), Arch (learning), Nix (learning)]
+>
+> Linux [Proxmox, Debian 11, Ubuntu 12, 14, 20, 22, 24, Ubuntu Touch, Mint 22, Fedora 42]
 ---
 
 Skillsets
 > Network Configuration
+> 
 > Database Configuration
+> 
 > Hypervisor and Virtualization setup
+> 
 > Project Planning & Technical Documentation Writing
+> 
 > Source Control using Git & Github
+> 
 > Iterative Testing
 ---
 
