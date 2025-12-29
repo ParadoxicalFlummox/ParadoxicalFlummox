@@ -46,35 +46,33 @@ Email: adamr814@protonmail.com
 
 ## MISC
 ### My Homelab Setup
-Node1 *Vader* (Custom built PC)
-- Proxmox 8.3
+Node 1 ( Anakin )
+- Proxmox
   - Jellyfin
-  - TrueNAS Scale
-  - Ubuntu LXC for Minecraft
+  - Minecraft on Alpine VM
 ---
-Node2 *Leia* (Dell Wyse 5070)
-- Proxmox 8.4
-  - Docker "Docker-Auth"
-     - Authelia (TOTP/2FA)
-     - Caddy (Reverse Proxy)
+Node2 ( CT-7565 "rex" )
+- Proxmox
+  - Docker
+    - Security Stack
 ---
-Node3 *Luke* (Dell Wyse 5070)
-- Proxmox 8.4
-  - Ubuntu Server 24.04 LTS
-    - Docker "do"
-      - Radarr
-      - Sonarr
-      - Lidarr
-  - Ubuntu Server 24.04 LTS
-    - Docker "re"
-      - Actual Finance (money management)
-      - Kavita (books)
+Node3 ( CT-5555 "fives" )
+- Proxmox
+  - Alpine VM
+    - Docker
+      - Arr Stack
+    - Docker
+      - Jellyseerr
 ---  
-Node4 *Han-Solo* (Dell Wyse 5070)
-- Experimenting with Fedora Linux
+Node4 ( CT-1409 "echo" )
+- Proxmox
+  - Home Assistant
+  - Docker
+    - Firefly III
 ---
-#### Network Stack
-- Netgear CM1000 Modem *Qui-Gon*
-- OPNsense Firewall Appliance *Obi-WAN*
-- Netgear GS605 Switch *Maul*
-- Netgear AX5400 AP *Yoda*
+- QNAP TS-431KX NAS ( Death Star II )
+- Netgear CM1000 Modem ( Outer Rim )
+- OPNsense Firewall Appliance ( Jedi Order )
+- Netgear GS108E Switch ( Coruscant )
+- Netgear AX5400 AP ( Scarif )
+- UPS ( The Force )
