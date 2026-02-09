@@ -3,13 +3,13 @@ I am a graduate from the University of North Dakota (May 2025) and an independen
 
 Some of my hobbies include:
 - Photography
-- Home Labbing
+- Homelab & Networking
 - 3D Printing
 - Triathlons
 
 ## Major Projects
 - [TAPRE](https://github.com/ParadoxicalFlummox/TAPRE)
-- [SNeLB (Private UND project atm)](https://github.com/Intelligent-Network-Solutions/SNeLB)
+- [SNeLB (Private)](https://github.com/Intelligent-Network-Solutions/SNeLB)
 - [PrintConform](https://github.com/ParadoxicalFlummox/College_Course_Code/tree/main/CSCI%20463/Print-Conform-main)
 - [All prior course work](https://github.com/ParadoxicalFlummox/College_Course_Code)
 - [Other Coding Projects](https://github.com/ParadoxicalFlummox/OtherCodingProjects)
@@ -24,7 +24,7 @@ Operating Systems
 >
 > MacOS
 >
-> Linux [Proxmox, Debian 11, Ubuntu 12, 14, 20, 22, 24, Ubuntu Touch, Mint 22, Fedora 42]
+> Linux [Arch, Alpine, Proxmox, Debian 11, Ubuntu 12, 14, 20, 22, 24, Ubuntu Touch, Mint 22, Fedora 42]
 ---
 
 Skillsets
@@ -47,32 +47,31 @@ Email: adamr814@protonmail.com
 ## MISC
 ### My Homelab Setup
 Node 1 ( Anakin )
-- Proxmox
-  - Jellyfin
-  - Minecraft on Alpine VM
+- Alpine
+  - Docker
+    - Jellyfin
+    - Navidrome
+    - Minecraft on Alpine VM
 ---
 Node2 ( CT-7565 "rex" )
-- Proxmox
+- Alpine
   - Docker
     - Security Stack
 ---
 Node3 ( CT-5555 "fives" )
-- Proxmox
-  - Alpine VM
-    - Docker
-      - Arr Stack
-    - Docker
-      - Jellyseerr
+- Alpine
+  - Docker
+    - GNUCash
+    - Home Assistant
+    - Wiki.js
 ---  
 Node4 ( CT-1409 "echo" )
-- Proxmox
-  - Home Assistant
-  - Docker
-    - Firefly III
+- Alpine
+  - Arr
 ---
-- QNAP TS-431KX NAS ( Death Star II )
+- QNAP TS-431KX NAS ( Jedi Archives )
 - Netgear CM1000 Modem ( Outer Rim )
-- OPNsense Firewall Appliance ( Jedi Order )
-- Netgear GS108E Switch ( Coruscant )
+- Ubiquiti UDM-Pro ( Clone Command Center )
+- Ubiquiti USW-16 PoE ( Clone Nexus )
 - Netgear AX5400 AP ( Scarif )
 - UPS ( The Force )
