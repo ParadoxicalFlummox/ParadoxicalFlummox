@@ -1,77 +1,59 @@
-## Introductions and About Me
-I am a graduate from the University of North Dakota (May 2025) and an independent software developer who is also open to employment.
+# Adam Roy | Systems-First Software Developer
 
-Some of my hobbies include:
-- Photography
-- Homelab & Networking
-- 3D Printing
-- Triathlons
+<div align="center">
 
-## Major Projects
-- [TAPRE](https://github.com/ParadoxicalFlummox/TAPRE)
-- [SNeLB (Private)](https://github.com/Intelligent-Network-Solutions/SNeLB)
-- [PrintConform](https://github.com/ParadoxicalFlummox/College_Course_Code/tree/main/CSCI%20463/Print-Conform-main)
-- [All prior course work](https://github.com/ParadoxicalFlummox/College_Course_Code)
-- [Other Coding Projects](https://github.com/ParadoxicalFlummox/OtherCodingProjects)
+<a href="https://www.boot.dev/u/ParadoxicalFlummox">
+  <img src="https://img.shields.io/badge/Boot.dev-Level%2018-00ADD8?style=for-the-badge&logo=codecademy&logoColor=white" alt="Boot.dev Profile">
+</a>
 
-## Skills
-Programming Languages
-> C, C++, C#, Python, GO, SQL, Java, .NET, HTML, BASH
+<a href="https://monkeytype.com/profile/ParadoxicalFlummox">
+  <img src="https://img.shields.io/badge/Monkeytype-97%20WPM-e2b714?style=for-the-badge&logo=monkeytype&logoColor=black" alt="Monkeytype Stats">
+</a>
+
+<br>
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ubiquiti](https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E74C3C?style=for-the-badge&logo=proxmox&logoColor=white)
+
+</div>
+
 ---
 
-Operating Systems
-> Windows [7, 8, 10, 11]
->
-> MacOS
->
-> Linux [Arch, Alpine, Proxmox, Debian 11, Ubuntu 12, 14, 20, 22, 24, Ubuntu Touch, Mint 22, Fedora 42]
+### Current Metrics & Development
+* **Education:** B.S. Computer Science, University of North Dakota (May 2025)
+* **Focus:** Open-source utility, SDN Telemetry, and Digital Autonomy.
+* **Hobbies:** Photography, 3D Printing, Triathlons.
+
 ---
 
-Skillsets
-> Network Configuration
-> 
-> Database Configuration
-> 
-> Hypervisor and Virtualization setup
-> 
-> Project Planning & Technical Documentation Writing
-> 
-> Source Control using Git & Github
-> 
-> Iterative Testing
+### Contact info
+- **ProtonMail:** [Email Me](mailto:adamr814@protonmail.com)
+
 ---
 
-## Contact Information
-Email: adamr814@protonmail.com
+### Core Infrastructure Stack
+I manage a multi-node **Alpine Linux** cluster.
 
-## MISC
-### My Homelab Setup
-Node 1 ( Anakin )
-- Alpine
-  - Docker
-    - Jellyfin
-    - Navidrome
-    - Minecraft on Alpine VM
+| Node | Hostname | Core Services |
+| :--- | :--- | :--- |
+| **Node 1** | `anakin` | Jellyfin, Navidrome |
+| **Node 2** | `rex` | Identity Management (Authentik, LLDAP) |
+| **Node 3** | `fives` | Documentation (Wiki.js), Home Assistant |
+| **Node 4** | `echo` | Automation & CI/CD Stack |
+
 ---
-Node2 ( CT-7565 "rex" )
-- Alpine
-  - Docker
-    - Security Stack
+
+### Network Operations Center (NOC)
+My homelab is powered by a dedicated Ubiquiti and Netgear backbone, providing high-availability and segmented traffic for secure service hosting.
+
+* **Gateway:** Ubiquiti UDM-Pro (*Clone Command Center*)
+* **Switching:** Ubiquiti USW-16 PoE (*Clone Nexus*)
+* **Wireless:** Netgear AX5400 AP (*Scarif*)
+* **Modem:** Netgear CM1000 (*Outer Rim*)
+* **Storage:** QNAP TS-431KX NAS (*Jedi Archives*)
+
 ---
-Node3 ( CT-5555 "fives" )
-- Alpine
-  - Docker
-    - GNUCash
-    - Home Assistant
-    - Wiki.js
----  
-Node4 ( CT-1409 "echo" )
-- Alpine
-  - Arr
----
-- QNAP TS-431KX NAS ( Jedi Archives )
-- Netgear CM1000 Modem ( Outer Rim )
-- Ubiquiti UDM-Pro ( Clone Command Center )
-- Ubiquiti USW-16 PoE ( Clone Nexus )
-- Netgear AX5400 AP ( Scarif )
-- UPS ( The Force )
