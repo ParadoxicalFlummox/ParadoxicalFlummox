@@ -21,6 +21,8 @@
 
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/51dab51a-ec50-46e0-ad83-8e8104fe0e9c.svg)](https://wakatime.com/@51dab51a-ec50-46e0-ad83-8e8104fe0e9c)
+
 ---
 
 ### Current Metrics & Development
